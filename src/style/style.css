@@ -1,0 +1,12 @@
+.add-todo-btn{
+    display: inline-block;
+    width: 20px;
+    height:20px;
+    line-height: 20px;
+    margin-left: 10px;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+    background: #7d7d7d;
+}

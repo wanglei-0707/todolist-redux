@@ -1,2 +1,3 @@
-# todolist-redux
-a react and redux test project
+## redux
+
+A redux test project
